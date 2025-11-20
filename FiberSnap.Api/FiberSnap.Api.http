@@ -1,0 +1,6 @@
+@FiberSnap.Api_HostAddress = http://localhost:5134
+
+GET {{FiberSnap.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
